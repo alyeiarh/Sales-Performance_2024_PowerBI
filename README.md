@@ -1,6 +1,6 @@
 # Sales Performance Analysis (2024) – Power BI
 
-I built this report as my final hands-on project for the Yayasan Peneraju Power BI training programme, and it was a great chance to work through a real analysis from start to finish! I turned the data into a report that shows where the profit really comes from and what the sales team can do better next year.
+I built this report as my final hands-on project for the Yayasan Peneraju Power BI training programme, and it was a great chance to work through a real analysis from start to finish! I cleaned and turned 1,500 records of messy retail data into a report that shows where the profit really comes from and what the sales team can do better next year.
 
 **2024 at a glance:** RM405K sales · RM89K profit · about 4,000 units sold
 
