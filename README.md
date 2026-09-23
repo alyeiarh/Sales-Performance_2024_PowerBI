@@ -6,7 +6,7 @@ I built this report as my final hands-on project for the Yayasan Peneraju Power 
 
 📄 **Full report (PDF):** [Sales_Performance_2024.pdf](Sales_Performance_2024.pdf)
 
-## Report pages
+## 📊 What's inside the report
 
 **1. Overview:** sales and profit trends, profit by region, and how discounts relate to profit.
 
@@ -20,7 +20,7 @@ I built this report as my final hands-on project for the Yayasan Peneraju Power 
 
 ![Product Details](product-details.png)
 
-## Top insights for the sales team
+## ⭐ Top insights for the sales team
 
 ### 1. Target discounts by category
 - **Found:** Overall, discounted and full-price sales earned almost the same profit (0.3% gap), but results differ a lot by category. Discounted sales earned more profit in **Sports (+42%)** and **Apparel (+16.9%)**, but less in **Beauty (−23.1%)** and **Electronics (−11.5%)**. Discounts above **20%** brought in very little profit.
@@ -59,3 +59,5 @@ I built this report as my final hands-on project for the Yayasan Peneraju Power 
 ## Tools
 
 Power BI Desktop, Power Query, Power BI Service, DAX
+
+Thanks for checking out my project! 🙌
