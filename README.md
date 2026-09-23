@@ -50,7 +50,7 @@ I built this report as my final hands-on project for the Yayasan Peneraju Power 
 |---|---|
 | ![Product Performance filtered to Apparel](product-performance-apparel.png) | ![Product Performance filtered to Home](product-performance-home.png) |
 
-## Skills used
+## 🛠️ Skills I used
 
 - **Power Query:** cleaned missing values and inconsistent product names
 - **DAX:** discount profit gap, profit lost to returns, top-selling product
