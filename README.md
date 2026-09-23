@@ -22,7 +22,7 @@ A Power BI report built as the final hands-on assessment of the **Yayasan Penera
 
 ## Top insights for the sales team
 
-### 1. Use discounts where they pay off
+### 1. Target discounts by category
 - **Found:** Overall, discounted and full-price sales earned almost the same profit (0.3% gap), but results differ a lot by category. Discounted sales earned more profit in **Sports (+42%)** and **Apparel (+16.9%)**, but less in **Beauty (−23.1%)** and **Electronics (−11.5%)**. Discounts above **20%** brought in very little profit.
 - **Action:** Focus discount campaigns on Sports and Apparel, review discounts in Beauty and Electronics, and keep most discounts at 20% or below.
 
@@ -40,11 +40,11 @@ A Power BI report built as the final hands-on assessment of the **Yayasan Penera
 
 ### 4. Lift the East region
 - **Found:** East earned the least profit (**RM26K**), behind North (RM32K) and South (RM31K).
-- **Action:** Apply what works in North and South, such as product mix and promotions, to East.
+- **Action:** Apply strategies that drive sales in North and South, such as product mix and promotions, to East.
 
-### 5. Ratings matter for Apparel, not Home
+### 5. Customer ratings drive Apparel sales, but less so for Home
 - **Found:** In **Apparel**, higher-rated products sold more. In **Home**, the best seller (Ceramic Dinner Set, 150 units) had the lowest rating.
-- **Action:** Promote reviews and top-rated items for Apparel. For Home, focus promotions on price and usefulness. (Each category has only 6–8 products, so treat this as a signal to test.)
+- **Action:** Promote top-rated items for Apparel. For Home, focus promotions on price and usefulness. (Each category has only 6–8 products, so treat this as a signal to test.)
 
 | Apparel: higher rating, more units | Home: higher rating, fewer units |
 |---|---|
