@@ -60,4 +60,5 @@ I built this report as my final hands-on project for the Yayasan Peneraju Power 
 
 Power BI Desktop, Power Query, Power BI Service, DAX
 
-## Thanks for checking out my project! 🙌
+
+Thanks for checking out my project! 🙌
