@@ -44,7 +44,7 @@ I built this report as my final hands-on project for the Yayasan Peneraju Power 
 
 ### 5. Customer ratings drive Apparel sales, but less so for Home
 - **Found:** In **Apparel**, higher-rated products sold more. In **Home**, the best seller (Ceramic Dinner Set, 150 units) had the lowest rating.
-- **Action:** Promote top-rated items for Apparel. For Home, focus promotions on price and usefulness. (Each category has only 6–8 products, so treat this as a signal to test.)
+- **Action:** Promote top-rated items for Apparel. For Home, focus promotions on price and usefulness. (Each product category has only 6–8 products, so treat this report can be treated as sample analysis.)
 
 | Apparel: higher rating, more units | Home: higher rating, fewer units |
 |---|---|
